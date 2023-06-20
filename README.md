@@ -19,6 +19,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby.js-000000?style=flat&logo=gatsby)
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
 
